@@ -47,7 +47,7 @@
        android:paddingLeft="5dp"  
        android:singleLine="true" />  `
 实验截图：
-
+![image](https://github.com/peach7k/midtest/blob/main/Android%E5%9B%BE%E7%89%87/%E6%97%B6%E9%97%B4%E6%88%B3.png)
 
 2.查询功能：
  a.在list_options_menu.xml布局文件中添加搜索功能
@@ -61,4 +61,19 @@
   d.新建一个NoteSearch类用于search功能的功能实现
   具体源码看文件
   
-  实验截图：
+  实验截图：![image](https://github.com/peach7k/midtest/blob/main/Android%E5%9B%BE%E7%89%87/%E6%9F%A5%E6%89%BE.png
+)
+
+附加功能：
+UI 设计：
+![image](https://github.com/peach7k/midtest/blob/main/Android%E5%9B%BE%E7%89%87/UI.png
+)
+
+更换背景颜色：基础为白色
+实验截图：![image](https://github.com/peach7k/midtest/blob/main/Android%E5%9B%BE%E7%89%87/%E7%AC%94%E8%AE%B0%E5%88%86%E7%B1%BB.png)
+
+笔记分类：
+
+实验截图：![image](https://github.com/peach7k/midtest/blob/main/Android%E5%9B%BE%E7%89%87/%E7%AC%94%E8%AE%B0%E5%88%86%E7%B1%BB.png)
+
+
